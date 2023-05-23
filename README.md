@@ -40,6 +40,13 @@ Abaixo é possível ver uma captura do projeto original construído pelo profess
 
 ## :computer: Tecnologias utilizadas
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JeffersonSilemen/jogoDaVelha">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JeffersonSilemen/jogoDaVelha">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/JeffersonSilemen/jogoDaVelha?style=social">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/JeffersonSilemen/jogoDaVelha?style=social">
+</p>
+
 Skills:
 
 - HTML
