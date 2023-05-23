@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Css/style.css">
+    <title>Jogo da Velha</title>
+</head>
+<body>
+    <h1 id="titulo">Jogo da Velha</h1>
+    <div class="stage">
+        <div>
+            <div id="0" class="square"></div>
+            <div id="1" class="square"></div>
+            <div id="2" class="square"></div>
+        </div>
+        <div>
+            <div id="3" class="square"></div>
+            <div id="4" class="square"></div>
+            <div id="5" class="square"></div>
+        </div>
+        <div>
+            <div id="6" class="square"></div>
+            <div id="7" class="square"></div>
+            <div id="8" class="square"></div>
+        </div>
+    </div>
+    <div id="placar" class="placar">
+        <input class="name" type="text" id="player1_name" placeholder="Player 1">
+        <div class="score" id="player1_score">0</div>
+        <p>X</p>
+        <div class="score" id="player2_score">0</div>
+        <input class="name" type="text" id="player2_name" placeholder="Player 2">
+    </div>
+
+    <div id="btn" class="btn">
+        <button onclick="handleResetGame()">Novo Game</button>
+    </div>
+
+    <div id="result" class="result">
+        <div onclick="closeResult()" class="close">X</div>
+        Parabéns
+        <h2 id="winner"></h2>
+        Você venceu
+        <h3 id="sequence"></h3>
+        <button id="buttonContinue" onclick="closeResult()">Continue</button>
+    </div>
+    <script src="./Js/game.js"></script>
+    <script src="./Js/interface.js"></script>
+</body>
+</html>
