@@ -14,7 +14,9 @@
    Projeto desenvolvido no curso do ProgBR
 </div>
 
-
+<p align="center">
+   <img src="jogoDaVelha.PNG" width="100%">
+ </p>
 
 <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
