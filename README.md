@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img alt="project" src="" width="100%">
+  <img alt="project" src="./jogoDaVelha.PNG" width="100%">
 </p>
 
 <p align="center">
@@ -28,6 +28,14 @@
 
 Projeto de construção de um jogo da velha que foi feito no curso programadorBR. <br>
 Abaixo é possível ver uma captura do projeto original construído pelo professor. Algumas funcionalidades extras foram desenvolvidas por mim como atividade extra, tais como: 
+- Estilização;
+- Div que mostra o resultado após o termino da partida.
+- Mecanismo para inserção dos nomes dos jogadores.
+- Função que calcula o placar.
+- Função para resetar o game.
+<p align="center">
+  <img alt="project" src="./model.PNG" width="100%">
+</p>
 
 
 ## :computer: Tecnologias utilizadas
